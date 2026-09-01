@@ -1,3 +1,3 @@
 # CypherDemo
 this is my first git repository 
-Author - Tarun Pathania
+Author -  Mr. Tarun Pathania
